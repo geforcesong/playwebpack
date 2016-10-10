@@ -1,3 +1,3 @@
 module.exports = function(req, res){
-    res.render('home', { title: 'Hey', message: 'Hello there!'});
+    res.render('home/home', { title: 'Hey', message: 'Hello there!'});
 }
