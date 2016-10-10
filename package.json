@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/geforcesong/playwebpack/issues"
   },
-  "homepage": "https://github.com/geforcesong/playwebpack#readme"
+  "homepage": "https://github.com/geforcesong/playwebpack#readme",
+  "dependencies": {
+    "webpack": "^1.13.2"
+  }
 }
