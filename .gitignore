@@ -3,6 +3,7 @@ node_modules/
 .project
 .metadata/
 .sass-cache/
+public/assets/
 
 npm-debug.log
 
